@@ -11,9 +11,7 @@
     <p class="level">{level}</p>
   </div>
   <div class="header-bg header-after">
-    <a target="_blank" href="https://github.com/TheHadiAhmadi/guess-rgb">
-      <img alt="" src={githubSVG} />
-    </a>
+    
   </div>
 </div>
 
