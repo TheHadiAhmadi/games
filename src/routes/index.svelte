@@ -1,7 +1,7 @@
 <div class="flex flex-col h-screen bg-gray-200">
 
 
-    <div class="text-6xl text-center bg-gray-300 shadow py-12 border-b border-gray-400 text-gray-700">Games</div>
+    <div class="text-5xl sm:text-6xl text-center bg-gray-300 shadow py-4 sm:py-12 border-b border-gray-400 text-gray-700">Games</div>
 
 
     <div class="flex justify-center overflow-auto flex-wrap gap-8 p-8">
