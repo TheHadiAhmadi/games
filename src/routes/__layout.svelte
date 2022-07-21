@@ -22,7 +22,7 @@ function quit() {
     {/if}
 
     <slot/>
-    
+    <div class="h-12"/>
     <Modal bind:open={modalOpen}>
         <Card>
             <CardBody>
