@@ -28,7 +28,7 @@
             </span>
         </div>
     </a>
-    <a href="./mines" class="inline-block shadow rounded transform hover:shadow-xl hover:scale-105 overflow-hidden relative">
+    <a href="https://mines-hadiahmadi.vercel.app" class="inline-block shadow rounded transform hover:shadow-xl hover:scale-105 overflow-hidden relative">
         <img src="/mines.png" class="w-60 h-60 object-cover"/>
         <div class="flex items-center justify-center absolute opacity-0 transform hover:scale-120 hover:bg-black/0 backdrop-filter backdrop-blur-4 transition duration-500 hover:opacity-100 font-bold left-0 right-0 top-0 bottom-0">
             Play Minesweeper
